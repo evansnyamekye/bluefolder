@@ -24,7 +24,7 @@ gem 'jbuilder'
 gem 'devise'
 
 # Tailwind css is a utility-first CSS framework for rapidly building custom designs.
-gem 'tailwindcss-rails'
+# gem 'tailwindcss-rails'
 
 # Gem for handling user roles and permissions
 gem 'cancan'
