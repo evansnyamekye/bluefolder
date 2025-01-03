@@ -18,9 +18,9 @@
   - [📝 License ](#-license-)
 
 
-# 📖 Blog-application <a name="about-project"></a>
+# 📖 BlueFolder-application <a name="about-project"></a>
 
-**The Blog application is designed to serve as a typical blog website. It aims to deliver a complete and operational web platform where users can explore a catalog of articles and engage with them through actions like leaving comments and expressing their appreciation by liking posts..
+**The Bluefolder application is designed to serve as a typical blog website. It aims to deliver a complete and operational web platform where users can explore a catalog of articles and engage with them through actions like leaving comments and expressing their appreciation by liking posts..
 
 
 ## 🛠 Built With <a name="built-with"></a>
