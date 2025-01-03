@@ -1,15 +1,15 @@
-<!DOCTYPE html>
+
+!DOCTYPE html>
 <html>
   <head>
     <title>Bluefolder</title>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
-    <%= stylesheet_link_tag "tailwind", "inter-font", "data-turbo-track": "reload" %>
     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_importmap_tags %>
   </head>
-  <body class="center-container">
-    <div class="center-container">
+  <body>
+    <div>
       <%= yield %>
 
       <% if user_signed_in? %>
