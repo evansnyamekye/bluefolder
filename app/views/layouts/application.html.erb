@@ -1,5 +1,4 @@
-
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>Bluefolder</title>
@@ -8,8 +7,8 @@
     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_importmap_tags %>
   </head>
-  <body>
-    <div>
+  <body class="center-container">
+    <div class="content">
       <%= yield %>
 
       <% if user_signed_in? %>
